@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cleber.melo\\projetos\\TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FC8A73-8B61-4850-927E-E665671D1B0A}|API\\API.csproj|c:\\users\\cleber.melo\\projetos\\taskmanagement\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6FC8A73-8B61-4850-927E-E665671D1B0A}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FC8A73-8B61-4850-927E-E665671D1B0A}|API\\API.csproj|c:\\users\\cleber.melo\\projetos\\taskmanagement\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6FC8A73-8B61-4850-927E-E665671D1B0A}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FC8A73-8B61-4850-927E-E665671D1B0A}|API\\API.csproj|c:\\users\\cleber.melo\\projetos\\taskmanagement\\api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FC8A73-8B61-4850-927E-E665671D1B0A}|API\\API.csproj|solutionrelative:api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F434A0A-6FC3-4901-89D4-EE895A3A387D}|Application\\Application.csproj|c:\\users\\cleber.melo\\projetos\\taskmanagement\\application\\handlers\\task\\gettasksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F434A0A-6FC3-4901-89D4-EE895A3A387D}|Application\\Application.csproj|solutionrelative:application\\handlers\\task\\gettasksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F434A0A-6FC3-4901-89D4-EE895A3A387D}|Application\\Application.csproj|c:\\users\\cleber.melo\\projetos\\taskmanagement\\application\\queries\\task\\gettasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F434A0A-6FC3-4901-89D4-EE895A3A387D}|Application\\Application.csproj|solutionrelative:application\\queries\\task\\gettasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FC8A73-8B61-4850-927E-E665671D1B0A}|API\\API.csproj|c:\\users\\cleber.melo\\projetos\\taskmanagement\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FC8A73-8B61-4850-927E-E665671D1B0A}|API\\API.csproj|solutionrelative:api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F434A0A-6FC3-4901-89D4-EE895A3A387D}|Application\\Application.csproj|c:\\users\\cleber.melo\\projetos\\taskmanagement\\application\\handlers\\user\\loginuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F434A0A-6FC3-4901-89D4-EE895A3A387D}|Application\\Application.csproj|solutionrelative:application\\handlers\\user\\loginuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\TaskManagement\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\TaskManagement\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T23:48:53.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\TaskManagement\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\TaskManagement\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T23:48:34.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetTasksQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\TaskManagement\\Application\\Handlers\\Task\\GetTasksQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\Task\\GetTasksQueryHandler.cs",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\TaskManagement\\Application\\Handlers\\Task\\GetTasksQueryHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\Task\\GetTasksQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T23:33:47.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetTasksQuery.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\TaskManagement\\Application\\Queries\\Task\\GetTasksQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\Task\\GetTasksQuery.cs",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\TaskManagement\\Application\\Queries\\Task\\GetTasksQuery.cs",
+              "RelativeToolTip": "Application\\Queries\\Task\\GetTasksQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T23:33:19.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\TaskManagement\\API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\TaskManagement\\API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "API\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T22:16:05.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\TaskManagement\\API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\TaskManagement\\API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T22:15:18.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginUserQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\TaskManagement\\Application\\Handlers\\User\\LoginUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\User\\LoginUserQueryHandler.cs",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\TaskManagement\\Application\\Handlers\\User\\LoginUserQueryHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\User\\LoginUserQueryHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T22:13:41.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
